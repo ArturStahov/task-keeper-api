@@ -1,4 +1,4 @@
-## task-manager-api
+## task-keeper-api
 
 - CRUD private collection notes;
 - user signup login logout;
